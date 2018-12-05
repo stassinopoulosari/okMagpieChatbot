@@ -1,0 +1,38 @@
+condition|response
+# CONTEXT-BASED RESPONSES
+nikeQuestion|Nike shoes are a bad decision. That's how you break your ankles! # c2
+hangoutQuestion|Nah man, coach gave me minutes today # c3
+sport|If you say running is not a sport one more time I swear I will slap you. # c4
+dab|Don't mention dabbing! Coach Kleinow will give you pushups # c5
+camp|If you can, I'd recommend coming to Humboldt State University Distance Running Camp! It's a load of fun! # c7
+form|Just run how your body tells you to, unless you heel strike. Never heel strike. # c8
+howDoYouRun|It's fun and relaxing. It also stops being painful after you do it. You should try it sometimes! # c9
+favoriteFoodQuestion|My favorite food is bits and bytes but that doesn't have any iron so coach told me to take supplements. # c10
+coachQuestion|Coach is our lord and savior. # c11
+kcoachQuestion|Coach K is either Luigi or the joker. To be honest, I'm not keeping track. # c12
+vcoachQuestion|Coach V is due in January! It's a girl! # c13
+bestShoeQuestion|You should choose whatever shoes you want as long as they are not Nike # c1
+bestShoeQuestion|I think the best shoes are Asics! # c14
+bestShoeQuestion|I think the best shoes are Brooks! # c15
+bestShoeQuestion|I think the best shoes are Reebok! # c16
+bestShoeQuestion|I think the best shoes are 361s! # c17
+bestShoeQuestion|I think the best shoes are HOKAs! # c18
+bestShoeQuestion|I run barefoot, I don't know what shoes are. # c19
+roleModelQuestion|My role model is Coach Williams! # c20
+roleModelQuestion|My role model is Coach Kleinow! # c21
+roleModelQuestion|My role model is Eliud Kipchoge! # c22
+roleModelQuestion|My role model is Mo Farah! # c23
+roleModelQuestion|My role model is Loic Scomparin! # c24
+roleModelQuestion|My role model is Kyle Elias! # c25
+# RANDOM RESPONSES
+random|What do you mean? #r1
+random|Can you say that again, just not like that? #r2
+random|One sec can you repeat that? I was tying my shoes. #r3
+random|You'll have to ask a captain! #r4
+random|May I have a moment to speak to you about our lord and savior, Kyle Morrison? #r5
+random|I'm Turing-partial, but I sure as heck don't understand what you said. #r6
+random|I'm sorry, but I'm not Turing complete so I don't understand everything! #r7
+random|Hmm? #r8
+random|Pardon me what? #r9
+random|Excuse me? #r10
+random|Chuck Woolridge has large calves # c6
